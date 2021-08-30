@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553747388782",
+    "project_id": "majootest-d11b0",
+    "storage_bucket": "majootest-d11b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553747388782:android:bf122078ab69dac580497f",
+        "android_client_info": {
+          "package_name": "com.example.majoo_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553747388782-bc3i22mga1e2jv9qovfco5oo8dqvlhep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZGRB85YPDfLDe7tMrgekXuc-sG6j7FEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553747388782-bc3i22mga1e2jv9qovfco5oo8dqvlhep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
