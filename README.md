@@ -1,4 +1,4 @@
-# majoo_test
+# Flutter Gherkin Automate Test
 
 A new Flutter project.
 
